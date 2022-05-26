@@ -1,0 +1,4 @@
+# Project exclude paths
+/Cloud-Api/target/
+/Cloud-Master/target/
+/Cloud-Wrapper/target/
